@@ -39,3 +39,8 @@ The dashboard provides insights into medal distribution, country performance, an
 ## Author
 Aniruddh Iyer  
 Computer Engineering | SPIT Mumbai
+
+
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard-overview.png)
